@@ -12,4 +12,4 @@ To run this application:
 flask --debug run
 ```
 
-https://github.com/formsgtest/codespaces-flask/blob/main/Screenshot%202023-09-19%20125356.png?raw=true
+![alt text](https://github.com/formsgtest/TheCat-FlaskWebsite/blob/main/Screenshot%202023-09-19%20125356.png?raw=true)
